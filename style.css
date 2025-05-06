@@ -7,6 +7,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  overflow-x: hidden;
+}
 
 /*
  * Base structure
@@ -18,7 +21,7 @@
 
 .banner-wrap {
   /* feel free to use your own img  */
-  background-image: url(https://images.unsplash.com/photo-1649879682362-eb6e442f4a50?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+  background-image: url();
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -62,4 +65,4 @@
   opacity: 80%;
   transition: all 0.5s;
 }
-
+/* projects ive made */
